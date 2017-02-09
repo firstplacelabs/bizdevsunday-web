@@ -6758,3 +6758,20 @@ a {
   bottom: 0;
   width: 100%;
 }
+
+
+/* vid fit w/aspect */
+
+@media screen and (min-width: 720px) {
+    .vid {
+       width:720px;
+       height:405px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 640px) {
+    .vid {
+       width:320px;
+       height:180px;
+    }
+}

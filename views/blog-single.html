@@ -10,15 +10,18 @@
       </div>
       {{# page.metafield.hero }}
         <div class="mb-20">
-          <iframe width="560" height="315" src="{{ page.metafield.video.object.metadata.url }}" frameborder="0" allowfullscreen></iframe>
+          <div class="col-sm-8">
+          <iframe  class="vid" width="560" height="315" src="{{ page.metafield.video.object.metadata.url }}" frameborder="0" allowfullscreen></iframe>
+          <div>
         </div>
+      <div class="make-relative">
       {{/ page.metafield.hero }}
 
       
-      <div class="col-sm-12">
+      <div class="col-sm-12" style="font-family: 'Open Sans'">
       {{{ page.content }}}
       </div>
-
+      </div>
 
     </div>
   </main>
