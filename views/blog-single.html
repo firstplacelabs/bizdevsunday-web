@@ -10,10 +10,16 @@
       </div>
       {{# page.metafield.hero }}
         <div class="mb-20">
-          <img class="img-responsive center-block" src="{{ page.metafield.hero.imgix_url }}?w=900">
+          <iframe width="560" height="315" src="{{ page.metafield.video.object.metadata.url }}" frameborder="0" allowfullscreen></iframe>
         </div>
       {{/ page.metafield.hero }}
+
+      
+      <div class="col-sm-12">
       {{{ page.content }}}
+      </div>
+
+
     </div>
   </main>
 {{> footer }}
