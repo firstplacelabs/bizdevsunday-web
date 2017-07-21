@@ -7,7 +7,6 @@ I created this page to play with react and a relatively new cms platform called 
 
 
 ![alt tag](./preview/bizdevsunday.com-web.png)
-![alt tag](./preview/bizdevsunday.com-(iPhone%206%20Plus).png)
 ![alt tag](./preview/cosmicjs-dashboard.png)
 ![alt tag](./preview/cosmicjs-usage.png)
 
