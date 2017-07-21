@@ -1,5 +1,16 @@
 # bizdevsunday
 
+
+#Bizdevsunday - Getting to know CosmicJS
+
+I created this page to play with react and a relatively new cms platform called CosmicJS
+
+
+![alt tag](./preview/bizdevsunday.com-web.png)
+![alt tag](./preview/bizdevsunday.com-(iPhone 6 Plus).png)
+![alt tag](./preview/cosmicjs-dashboard.png)
+![alt tag](./preview/cosmicjs-usage.png)
+
 #Cross-Platform Blog
 ![alt tag](https://cosmicjs.com/uploads/21e23d30-8076-11e6-a994-973764f7d6d1-cross-platform-blog.jpg)
 This repo is an example of how to build cross-platform apps with content powered by [Cosmic JS](https://cosmicjs.com). The iOS and Android apps in this repo are built using React Native and the web app runs on a light Node.js web server, all with content served from the [Cosmic JS CMS API](https://cosmicjs.com).  Create your content once, deliver everywhere.
