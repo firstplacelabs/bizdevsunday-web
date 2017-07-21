@@ -3,11 +3,11 @@
 
 #Bizdevsunday - Getting to know CosmicJS
 
-I created this page to play with react and a relatively new cms platform called CosmicJS
+I created this page to play with react and a relatively new cms platform called [CosmicJS](https://cosmicjs.com/?ref=962b48a0-ecdf-11e6-800a-6fa37e9a41f0)
 
 
 ![alt tag](./preview/bizdevsunday.com-web.png)
-![alt tag](./preview/bizdevsunday.com-(iPhone 6 Plus).png)
+![alt tag](./preview/bizdevsunday.com-(iPhone%206%20Plus).png)
 ![alt tag](./preview/cosmicjs-dashboard.png)
 ![alt tag](./preview/cosmicjs-usage.png)
 
