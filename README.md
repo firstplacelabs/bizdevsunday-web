@@ -6,10 +6,10 @@
 I created this page to play with react and a relatively new cms platform called [CosmicJS](https://cosmicjs.com/?ref=962b48a0-ecdf-11e6-800a-6fa37e9a41f0)
 
 
-![alt tag](./preview/bizdevsunday.com-web.png | width:420)
-![alt tag](./preview/bizdevsunday.com-(iPhone%206%20Plus).png | width:320)
-![alt tag](./preview/cosmicjs-dashboard.png | width:320 )
-![alt tag](./preview/cosmicjs-usage.png | width:320)
+![alt tag](./preview/bizdevsunday.com-web.png)
+![alt tag](./preview/bizdevsunday.com-(iPhone%206%20Plus).png)
+![alt tag](./preview/cosmicjs-dashboard.png)
+![alt tag](./preview/cosmicjs-usage.png)
 
 #Cross-Platform Blog
 ![alt tag](https://cosmicjs.com/uploads/21e23d30-8076-11e6-a994-973764f7d6d1-cross-platform-blog.jpg)
